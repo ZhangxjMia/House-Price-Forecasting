@@ -21,7 +21,7 @@ The dataset consists of 7600 rows and 21 columns. In this project, I mainly appl
 * Deep Learning Model
 
 ## Screenshots
-(https://user-images.githubusercontent.com/63559049/102727864-4eab8000-42dd-11eb-9cc3-c59512254852.png)
+![Example screenshot](https://user-images.githubusercontent.com/63559049/102727864-4eab8000-42dd-11eb-9cc3-c59512254852.png)
 
 
 ## Code Examples

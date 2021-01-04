@@ -25,7 +25,9 @@ The dataset consists of 7600 rows and 21 columns. In this project, I mainly appl
 
 
 ## Code Examples
-`gbr = GradientBoostingRegressor( learning_rate = 0.1, max_depth = 3, n_estimators = 600, random_state=0)`
-`gbr.fit(X_train, y_train)`
-`print('Training score(R^2): {:.3f}'.format(gbr.score(X_train, y_train)))`
-`print('Testing score(R^2): {:.3f}'.format(gbr.score(X_test, y_test)))`
+```Python
+gbr = GradientBoostingRegressor( learning_rate = 0.1, max_depth = 3, n_estimators = 600, random_state=0)
+gbr.fit(X_train, y_train)
+print('Training score(R^2): {:.3f}'.format(gbr.score(X_train, y_train)))
+print('Testing score(R^2): {:.3f}'.format(gbr.score(X_test, y_test)))
+```

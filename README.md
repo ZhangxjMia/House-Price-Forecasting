@@ -7,7 +7,7 @@
 * [CodeExample](#codeexample)
 
 ## General info
-The dataset consists of 7600 rows and 21 columns. In this project, I mainly applied Decision Tree Regressor and Linear Regression to build ML models. Additionally, I used Ensemble Learning to boost the performance.
+> The dataset consists of 7600 rows and 21 columns. In this project, I mainly applied Decision Tree Regressor and Linear Regression to build ML models. Additionally, I used Ensemble Learning to boost the performance.
 * Data Description
 * Data Preparation
 * EDA
